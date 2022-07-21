@@ -1,6 +1,6 @@
 """
 Masukkan Bilangan : 5
-5! = 5 * 4 * 3 * 2 * 1 = 120
+5! = 5 * 4 * 3 * 2 * 1 = 120 
 """
 
 bilangan = input("Masukkan Bilangan : ")
