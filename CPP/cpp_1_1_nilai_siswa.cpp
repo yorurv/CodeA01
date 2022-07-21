@@ -1,7 +1,7 @@
 /*
 => Program C++ <=
 => Nilai Siswa <=
-Buatlah sebuah Array untuk menyimpan 10 nilai siswa.
+Buatlah sebuah Array untuk menyimpan 10 nilai siswa. 
 Nilai dimasukkan kedalam Array satu- persatu hingga penuh.
 Lalu cari nilai rata-rata, nilai tertinggi dan nilai terrendah.
 */
