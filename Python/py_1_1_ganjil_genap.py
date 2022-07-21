@@ -7,6 +7,6 @@ bilangan = input("Masukkan Bilangan : ")
 bilangan = int(bilangan)
 
 if bilangan % 2 == 0:
-	print(f"{bilangan} adalah Bilangan Genap")
+    print(f"{bilangan} adalah Bilangan Genap")
 else:
-	print(f"{bilangan} adalah Bilangan Ganjil")
+    print(f"{bilangan} adalah Bilangan Ganjil")
