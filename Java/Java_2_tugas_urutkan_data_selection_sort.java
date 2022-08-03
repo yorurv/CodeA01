@@ -12,7 +12,7 @@
     Ascending maupun Descending.
 */
 
-class Java_1_2_tugas_urutkan_data_selection_sort {
+class Java_2_tugas_urutkan_data_selection_sort {
     public static void main(String args[]) {
         int[] arr = { 100, 3, 71, 28, 14, 9, 10, 1, 33, 50 };
         int len = arr.length;
