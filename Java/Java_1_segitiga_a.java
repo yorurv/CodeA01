@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-class Java_1_1_segitiga_a {
+class Java_1_segitiga_a {
     public static void main(String args[]) {
         Scanner scn = new Scanner(System.in);
 
