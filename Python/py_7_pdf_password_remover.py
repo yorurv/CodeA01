@@ -3,7 +3,7 @@
 # Menulis Ulang PDF tanpa menggunakan Password
 #
 # PyPDF2
-# pip install PyPDF2
+# pip install PyPDF2[crypto]
 
 from PyPDF2 import PdfReader, PdfWriter, PasswordType
 
